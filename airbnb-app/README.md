@@ -9,7 +9,7 @@
 
 > Airbnb UI clone using Next.js + styled-components. (Todo: Search functionality and Mapbox integration)
 
-### ✨ [Live Demo](https://airbnb-ish.vercel.app)
+<!-- ### ✨ [Live Demo](https://airbnb-ish.vercel.app) -->
 
 
 ## Getting Started

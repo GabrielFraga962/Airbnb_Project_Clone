@@ -79,9 +79,13 @@ export default function Footer() {
             </span>
           </p>
           <p>
-            &copy; 2021{" "}
-            <a href="https://dashsantosh.me" target="_blank" rel="noreferrer">
-              Dash Santosh
+            &copy; 2022{" "}
+            <a
+              href="https://github.com/GabrielFraga962"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Gabriel Fraga
             </a>
           </p>
         </span>
